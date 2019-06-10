@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/get_string', function(req, res) {
-    //some code here
+    there is some error here
 });
 
 
